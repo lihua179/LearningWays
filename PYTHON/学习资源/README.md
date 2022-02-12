@@ -21,3 +21,5 @@ https://python3-cookbook.readthedocs.io/zh_CN/latest/c01/p01_unpack_sequence_int
 Python进阶
 ---------------------------------------
 https://docs.pythontab.com/interpy/#_5
+
+[《Python 3 标准库实例教程》 | Python 技术论坛 (learnku.com)](https://learnku.com/docs/pymotw)
