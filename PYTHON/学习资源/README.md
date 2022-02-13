@@ -22,4 +22,15 @@ Python进阶
 ---------------------------------------
 https://docs.pythontab.com/interpy/#_5
 
-[《Python 3 标准库实例教程》 | Python 技术论坛 (learnku.com)](https://learnku.com/docs/pymotw)
+[《Python 3 标准库实例教程》 | Python 技术论坛 (learnku.com)]
+---------------------------------------
+https://learnku.com/docs/pymotw
+
+
+文档托管网站，python电子书籍中文翻译...
+---------------------------------------
+https://readthedocs.org/
+
+python 必读PEP
+---------------------------------------
+https://www.cnblogs.com/abella/p/10056875.html
